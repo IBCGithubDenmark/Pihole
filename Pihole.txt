@@ -1,1 +1,4 @@
 bard.google.com
+gemini.google.com
+translate.google.com
+chat.bing.com
