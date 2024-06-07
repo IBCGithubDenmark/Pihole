@@ -88,3 +88,4 @@ copilot.microsoft.com
 teams.live.com
 reddit.com
 mcp.opera-api.com
+deepai.org
