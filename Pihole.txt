@@ -89,3 +89,4 @@ teams.live.com
 reddit.com
 mcp.opera-api.com
 deepai.org
+smartsolve.ai
