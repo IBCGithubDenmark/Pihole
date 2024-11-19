@@ -91,3 +91,4 @@ mcp.opera-api.com
 deepai.org
 smartsolve.ai
 messenger.com
+itranslate.com
