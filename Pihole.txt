@@ -95,4 +95,4 @@ itranslate.com
 character.ai
 c.ai
 translate.google.dk
-
+deepseek.com
