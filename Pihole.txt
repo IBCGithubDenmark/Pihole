@@ -2216,3 +2216,4 @@ zh-tw.facebook.com
 zh-tw.facebook.com0.facebook.com
 imap.google.com
 imap.gmail.com
+aistudio.google.com
